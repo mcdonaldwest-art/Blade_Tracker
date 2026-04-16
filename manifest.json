@@ -1,1 +1,9 @@
 
+{
+  "name": "Knife Shop Tracker",
+  "short_name": "KnifeTracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111315",
+  "theme_color": "#111315"
+}
